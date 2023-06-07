@@ -5,7 +5,7 @@ In this project, I used an arduino, breadbord, and sensors to create a robotic c
 |:--:|:--:|:--:|:--:|
 |Utkarsh G | UMD | Computer Science | Junior
 
-![Headstone Image](IMG_4307.jpg)
+![Headstone Image](IMG_4308.jpg)
   
 # Project Recap
 After exploring thoroughly with this kit there is a lot to be said. The number of parts given in the SunFounder kit is astounding and leaves a lot to be explored/discovered. I myself tried out all their tutorials but also ended up mixing and matching them to create my own fun little side projects and I want to talk about them here.
