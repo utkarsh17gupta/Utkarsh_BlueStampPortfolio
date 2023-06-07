@@ -7,7 +7,7 @@ In this project, I used an arduino, breadbord, and sensors to create a robotic c
 
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
-![Headstone Image](logo.svg)
+![Headstone Image](IMG_4307.jpg)
   
 # Final Milestone
 For your final milestone, explain the outcome of your project. Key details to include are:
