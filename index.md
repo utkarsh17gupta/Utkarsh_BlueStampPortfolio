@@ -15,13 +15,13 @@ Before I talk about all the fun to be had, I do want to talk about some of risks
 
 ## Modifications using the kits we have
 Some mods I did: 
-  + Using a combination of the line following module and the obstacle avoidance module, I was able to make a race track and allow the car to run on its own. Avoiding the walls and obstacles while trying to follow the line.
-  + Using the red and green LEDs allowed me to make a fun red light/green light game with the car (of course the car won every time) but it showed me the capabilities that are possible within this kit. 
-  + The photoresistor helped me make a car that was afraid of the dark and would constantly try to escape any dark room it was put in. 
+  - Using a combination of the line following module and the obstacle avoidance module, I was able to make a race track and allow the car to run on its own. Avoiding the walls and obstacles while trying to follow the line.
+  - Using the red and green LEDs allowed me to make a fun red light/green light game with the car (of course the car won every time) but it showed me the capabilities that are possible within this kit. 
+  - The photoresistor helped me make a car that was afraid of the dark and would constantly try to escape any dark room it was put in. 
 
 ## Extra modifications that we could do with more parts
 Some potential mods: 
-  + A GPS module would allow for the creation of a small scale atomic/self-driving car
-  + Voice recognition module would allow me to give the car commands to follow instead of relying on a controller
-  + A larger chassis and a robotic arm could make a fun gadget that could be used to pick up items and move them
+  - A GPS module would allow for the creation of a small scale atomic/self-driving car
+  - Voice recognition module would allow me to give the car commands to follow instead of relying on a controller
+  - A larger chassis and a robotic arm could make a fun gadget that could be used to pick up items and move them
 
