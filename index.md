@@ -30,4 +30,5 @@ Some potential mods:
 
 | Part  | Description | Price | Link | 
 | :-: | :-: | :-: | :-: | 
-| part a  | does thing b  | $10 | <a href="www.something.com"> Something </a> | | part b  | does thing c  | $10 | <a href="www.something.com"> Something </a> | 
+| part a  | does thing b  | $10 | <a href="www.something.com"> Something </a> | 
+| part b  | does thing c  | $10 | <a href="www.something.com"> Something </a> | 
