@@ -28,7 +28,6 @@ Some potential mods:
 
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Part  | Description | Price | Link | 
+| ------------- | ------------- |------------- | ------------- | 
+| part a  | does thing b  | $10 | <a href="www.something.com"> Something </a> | 
